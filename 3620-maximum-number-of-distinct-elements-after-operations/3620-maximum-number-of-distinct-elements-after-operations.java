@@ -11,7 +11,7 @@ class Solution {
             if(y == -k)
                 d = k + 1;
             else
-                d = Math.min(k+1, x - y);
+                d = Math.min(k + 1, x - y);
             if(s <= d + k)
             {
                 c += s;
