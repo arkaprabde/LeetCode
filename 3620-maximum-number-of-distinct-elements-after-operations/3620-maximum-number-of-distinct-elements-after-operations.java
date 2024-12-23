@@ -1,7 +1,8 @@
+import java.util.*;
 class Solution {
     public int maxDistinctElements(int[] a, int k)
     {
-        TreeMap<Integer, Integer> mp = new TreeMap<>();
+        SortedMap<Integer, Integer> mp = new TreeMap<>();
         for(int x: a)
             mp.put(x, mp.getOrDefault(x, 0) + 1);
         int c = 0, y = -k, d;
