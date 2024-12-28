@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/arkaprabde/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/arkaprabde/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 ## Binary Search
