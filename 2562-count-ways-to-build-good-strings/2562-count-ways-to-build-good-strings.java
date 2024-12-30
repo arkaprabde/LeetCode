@@ -3,7 +3,7 @@ class Solution
     static final int mod = 1_000_000_007;
     public int countGoodStrings(int low, int high, int zero, int one)
     {
-        int dp[] = new int[high + 1];
+        int dp[] = new int[high + 1], s = 0;
         dp[0] = 1;
         for(int i = 1; i <= high; i++)
         {
@@ -11,10 +11,9 @@ class Solution
                 dp[i] = dp[i - zero];
             if(i - one >= 0)
                 dp[i] = (dp[i] + dp[i - one]) % mod;
+            if(i >= low)
+                s = (s + dp[i]) % mod;
         }
-        int s = 0;
-        for(int i = low; i <= high; i++)
-            s = (s + dp[i]) % mod;
         return s;
     }
 
