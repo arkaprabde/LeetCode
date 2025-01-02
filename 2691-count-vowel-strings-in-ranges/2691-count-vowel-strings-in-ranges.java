@@ -16,7 +16,7 @@ class Solution
     }
     int vow(char x)
     {
-        if("aeiou".indexOf(x) >= 0)
+        if(x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u')
             return 1;
         return 0;
     }
