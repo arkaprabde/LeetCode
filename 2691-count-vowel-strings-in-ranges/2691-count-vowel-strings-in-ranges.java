@@ -12,8 +12,11 @@ class Solution
     }
     int check(String s)
     {
-        String v = "AEIOIUaeiou";
-        if(v.indexOf(s.charAt(0)) > 0 && v.indexOf(s.charAt(s.length() - 1)) > 0)
+        return (vow(s.charAt(0)) + vow(s.charAt(s.length() - 1))) >> 1;
+    }
+    int vow(char x)
+    {
+        if(x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u')
             return 1;
         return 0;
     }
