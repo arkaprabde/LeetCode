@@ -16,8 +16,6 @@ class Solution
     }
     int vow(char x)
     {
-        if(x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u')
-            return 1;
-        return 0;
+        return (x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u')? 1: 0;
     }
 }
