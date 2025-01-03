@@ -2,15 +2,16 @@ class Solution
 {
     public int waysToSplitArray(int[] a)
     {
-        int n = a.length;
-        long s[] = new long[n];
-        s[0] = a[0];
-        for(int i = 1; i < n; i++)
-            s[i] = s[i - 1] + a[i];
-        int c = 0;
-        for(int i = 0; i < n -1; i++)
-            if(2 * s[i] >= s[n - 1])
+        int n = a.length, c = 0;
+        long s = 0, v = 0;
+        for(int x: a)
+            s += x;
+        for(int i = 0; i < n - 1; i++)
+        {
+            v += a[i];
+            if(2 * v >= s)
                 c++;
+        }
         return c;
     }
 }
