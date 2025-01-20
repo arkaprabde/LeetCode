@@ -2,8 +2,8 @@ class Solution
 {
     public int firstCompleteIndex(int[] a, int[][] p)
     {
-        int n = p.length, m = p[0].length, b[] = new int[n * m + 1], s = n * m + 1;
-        for(int i = 0; i < n * m; i++)
+        int n = p.length, m = p[0].length, l = a.length, b[] = new int[l + 1], s = l;
+        for(int i = 0; i < l; i++)
             b[a[i]] = i;
         for(int i = 0; i < n; i++)
         {
