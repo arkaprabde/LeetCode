@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arkaprabde/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arkaprabde/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arkaprabde/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 ## Dynamic Programming
@@ -197,8 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/arkaprabde/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arkaprabde/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/arkaprabde/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arkaprabde/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
