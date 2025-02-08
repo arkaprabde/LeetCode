@@ -1,8 +1,8 @@
 import java.util.*;
 class NumberContainers
 {
-    private Map<Integer, PriorityQueue<Integer>> mp1;
-    private Map<Integer, Integer> mp2;
+    Map<Integer, PriorityQueue<Integer>> mp1;
+    Map<Integer, Integer> mp2;
     public NumberContainers()
     {
         mp1 = new HashMap<>();
