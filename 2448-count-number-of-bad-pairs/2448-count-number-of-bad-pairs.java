@@ -8,9 +8,8 @@ class Solution
         {
             a[i] -= i;
             mp.put(a[i], mp.getOrDefault(a[i], 0L) + 1);
+            s += mp.get(a[i]) - 1;
         }
-        for(long x: mp.values())
-            s += x * (x - 1) / 2;
         return n * (n - 1) / 2 - s;
     }
 }
