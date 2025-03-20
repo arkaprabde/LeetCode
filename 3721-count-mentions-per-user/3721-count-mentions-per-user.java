@@ -4,8 +4,6 @@ class Solution
     public int[] countMentions(int n, List<List<String>> e)
     {
         Collections.sort(e, (x, y) -> (Integer.parseInt(x.get(1)) == Integer.parseInt(y.get(1)))? y.get(0).compareTo(x.get(0)): Integer.valueOf(x.get(1)) - Integer.valueOf(y.get(1)));
-        for(List<String> x: e)
-            System.out.println(x.toString());
         int b[] = new int[n], c[] = new int[n], s = 0;
         for(int i = 0; i < e.size(); i++)
         {
@@ -34,12 +32,7 @@ class Solution
                     c[y]++;
                 }
             }
-            for(int p: c)
-                System.out.print(p+" ");
-            System.out.println("\t"+t);
         }
-         for(int p: b)
-                System.out.print(p+" ");
         for(int i = 0; i < n; i++)
             c[i] += s;
         return c;
