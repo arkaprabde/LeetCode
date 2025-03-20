@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/arkaprabde/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arkaprabde/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arkaprabde/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Backtracking
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arkaprabde/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arkaprabde/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/arkaprabde/LeetCode/tree/master/3447-clear-digits) |
+| [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Design
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/arkaprabde/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arkaprabde/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkaprabde/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Data Stream
 |  |
 | ------- |
