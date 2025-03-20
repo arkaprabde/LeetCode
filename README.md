@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkaprabde/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arkaprabde/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/arkaprabde/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/arkaprabde/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/arkaprabde/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/arkaprabde/LeetCode/tree/master/2690-house-robber-iv) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/arkaprabde/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arkaprabde/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkaprabde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
@@ -264,19 +269,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arkaprabde/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arkaprabde/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Greedy
 |  |
 | ------- |
