@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arkaprabde/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arkaprabde/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arkaprabde/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arkaprabde/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkaprabde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -361,10 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arkaprabde/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arkaprabde/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arkaprabde/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/arkaprabde/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
