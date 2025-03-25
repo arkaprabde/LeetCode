@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/arkaprabde/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arkaprabde/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arkaprabde/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/arkaprabde/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/arkaprabde/LeetCode/tree/master/3721-count-mentions-per-user) |
 ## Backtracking
 |  |
