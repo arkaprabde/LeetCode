@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/arkaprabde/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arkaprabde/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkaprabde/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/arkaprabde/LeetCode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/arkaprabde/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkaprabde/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arkaprabde/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkaprabde/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/arkaprabde/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/arkaprabde/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/arkaprabde/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
