@@ -2,15 +2,18 @@ class Solution
 {
     public int numEquivDominoPairs(int[][] a)
     {
-        HashMap<String, Integer> mp=new HashMap<>();
+        int f[]=new int[100];
         for(int x[]: a)
         {
-            String s=Math.min(x[0], x[1])+" "+Math.max(x[0],x[1]);
-            mp.put(s, mp.getOrDefault(s,0)+1);
+            int s=x[0]*10+x[1];
+            if(x[0]>x[1])
+                s=x[1]*10+x[0];
+            f[s]++;
         }
         int c=0;
-        for(int x: mp.values())
-            c+=x*(x-1)/2;
+        for(int x: f)
+            if(x>0)
+                c+=x*(x-1)/2;
         return c;
     }
 }
