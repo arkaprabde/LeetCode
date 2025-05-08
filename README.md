@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/arkaprabde/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arkaprabde/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/arkaprabde/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/arkaprabde/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkaprabde/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arkaprabde/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/arkaprabde/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkaprabde/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/arkaprabde/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String
 |  |
 | ------- |
@@ -365,11 +368,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/arkaprabde/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arkaprabde/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkaprabde/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arkaprabde/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arkaprabde/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
