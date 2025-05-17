@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/arkaprabde/LeetCode/tree/master/0037-sudoku-solver) |
+| [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/arkaprabde/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/arkaprabde/LeetCode/tree/master/0854-making-a-large-island) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkaprabde/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arkaprabde/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/arkaprabde/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/arkaprabde/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arkaprabde/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/arkaprabde/LeetCode/tree/master/2551-apply-operations-to-an-array) |
