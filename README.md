@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/arkaprabde/LeetCode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/arkaprabde/LeetCode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/arkaprabde/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/arkaprabde/LeetCode/tree/master/0854-making-a-large-island) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/arkaprabde/LeetCode/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/arkaprabde/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkaprabde/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arkaprabde/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
