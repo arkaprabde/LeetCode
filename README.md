@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/arkaprabde/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/arkaprabde/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arkaprabde/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/arkaprabde/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkaprabde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/arkaprabde/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arkaprabde/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/arkaprabde/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arkaprabde/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkaprabde/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/arkaprabde/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/arkaprabde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
