@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arkaprabde/LeetCode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/arkaprabde/LeetCode/tree/master/0135-candy) |
+| [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/arkaprabde/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/arkaprabde/LeetCode/tree/master/0854-making-a-large-island) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
+| [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/arkaprabde/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkaprabde/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arkaprabde/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2434-design-a-number-container-system](https://github.com/arkaprabde/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/arkaprabde/LeetCode/tree/master/3678-design-task-manager) |
 ## Math
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkaprabde/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/arkaprabde/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arkaprabde/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
