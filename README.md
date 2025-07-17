@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arkaprabde/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkaprabde/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arkaprabde/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/arkaprabde/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arkaprabde/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/arkaprabde/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arkaprabde/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/arkaprabde/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/arkaprabde/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/arkaprabde/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arkaprabde/LeetCode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/arkaprabde/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
