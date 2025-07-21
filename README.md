@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/arkaprabde/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arkaprabde/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/arkaprabde/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/arkaprabde/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/arkaprabde/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/arkaprabde/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
