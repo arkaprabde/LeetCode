@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/arkaprabde/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/arkaprabde/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/arkaprabde/LeetCode/tree/master/2509-minimize-xor) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/arkaprabde/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2681-put-marbles-in-bags](https://github.com/arkaprabde/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arkaprabde/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/arkaprabde/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/arkaprabde/LeetCode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arkaprabde/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2448-count-number-of-bad-pairs](https://github.com/arkaprabde/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/arkaprabde/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkaprabde/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arkaprabde/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/arkaprabde/LeetCode/tree/master/2998-count-symmetric-integers) |
