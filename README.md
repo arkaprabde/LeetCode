@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arkaprabde/LeetCode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/arkaprabde/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/arkaprabde/LeetCode/tree/master/0135-candy) |
+| [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
 | [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/arkaprabde/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arkaprabde/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arkaprabde/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arkaprabde/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/arkaprabde/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkaprabde/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/arkaprabde/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -585,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arkaprabde/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
