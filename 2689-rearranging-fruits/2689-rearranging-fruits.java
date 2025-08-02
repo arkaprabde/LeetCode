@@ -15,7 +15,6 @@ class Solution {
         int mn = mp.firstKey();
         for (int x : mp.keySet()) {
             int y = mp.get(x);
-            //System.out.println(x + " " + y);
             c += Math.min(d, y) * Math.min(x, 2 * mn);
             d -= y;
             if (d <= 0) break;
