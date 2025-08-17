@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arkaprabde/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0867-new-21-game](https://github.com/arkaprabde/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/arkaprabde/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/arkaprabde/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/arkaprabde/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
+| [0867-new-21-game](https://github.com/arkaprabde/LeetCode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arkaprabde/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arkaprabde/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arkaprabde/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/arkaprabde/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0867-new-21-game](https://github.com/arkaprabde/LeetCode/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/arkaprabde/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkaprabde/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -608,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arkaprabde/LeetCode/tree/master/0204-count-primes) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/arkaprabde/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
