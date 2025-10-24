@@ -3,6 +3,8 @@ class Solution {
         Integer[] numsArr = Arrays.stream(nums).boxed().toArray(Integer[]::new);
         Arrays.sort(numsArr, (a,b) -> ((b+""+a).compareTo(a+""+b)));
         if(numsArr[0] == 0) return "0";
-        return Arrays.stream(numsArr).map(String::valueOf).collect(Collectors.joining());
+        StringBuilder res = new StringBuilder();
+        for (Integer x: numsArr) res.append(x);
+        return res.toString();
     }
 }
