@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/arkaprabde/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arkaprabde/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkaprabde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arkaprabde/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/arkaprabde/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/arkaprabde/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arkaprabde/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkaprabde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arkaprabde/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/arkaprabde/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkaprabde/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/arkaprabde/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arkaprabde/LeetCode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/arkaprabde/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/arkaprabde/LeetCode/tree/master/0854-making-a-large-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arkaprabde/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/arkaprabde/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arkaprabde/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/arkaprabde/LeetCode/tree/master/1876-map-of-highest-peak) |
